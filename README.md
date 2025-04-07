@@ -1,1 +1,1 @@
-Explora datos detallados sobre diamantes sin macro, incluyendo quilates, corte, color, claridad, profundidad, mesa, dimensiones (X, Y, Z) y precio en USD. La base de datos proviene de Kaggle.
+Explora datos detallados sobre diamantes en un archivo excel sin o con macro, incluyendo quilates, corte, color, claridad, profundidad, mesa, dimensiones (X, Y, Z) y precio en USD. La base de datos proviene de Kaggle.
